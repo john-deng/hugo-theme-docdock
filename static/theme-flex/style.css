@@ -30,7 +30,7 @@ header {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #333;
+  background-color: #0dadd4;
   color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -719,7 +719,7 @@ ul.children.children-card {
     margin-right: -10px; }
 
   .nav-select select {
-    display: block; }
+    display: block;}
 
   article img {
     margin-left: -1rem;
